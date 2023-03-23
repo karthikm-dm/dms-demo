@@ -4,7 +4,6 @@
   <test thread-count="5" name="DMS Test">
     <classes>
       <class name="dmsdemo.Test.ProjectsTest"/>
-    </classes>
-    
+    </classes>    
   </test> <!-- DMS Test -->
 </suite> <!-- DMS demo -->
