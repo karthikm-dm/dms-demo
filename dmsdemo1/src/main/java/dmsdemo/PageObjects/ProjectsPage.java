@@ -112,7 +112,7 @@ public class ProjectsPage{
 	
 	public void projectMenu() throws InterruptedException
 	{
-		Thread.sleep(1000);
+		Thread.sleep(2000);
 
 		projetsMenu.click();
 		Thread.sleep(1000);

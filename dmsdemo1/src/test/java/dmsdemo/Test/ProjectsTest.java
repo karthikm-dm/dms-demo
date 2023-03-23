@@ -43,6 +43,7 @@ public class ProjectsTest extends BaseTest {
 		Assert.assertEquals(projpg.alert(),"Permission added successfully");
 	}
 
+	
 /*	
 	
 	@Test(priority = 2)
@@ -152,7 +153,7 @@ public class ProjectsTest extends BaseTest {
 		Assert.assertTrue(projpg.selFolder("sharefolder"));
 		Assert.assertTrue(projpg.verifyDocument("testdatas"));
 	}
-	
-*/	
+
+*/
 	
 }

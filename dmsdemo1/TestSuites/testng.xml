@@ -5,5 +5,6 @@
     <classes>
       <class name="dmsdemo.Test.ProjectsTest"/>
     </classes>
+    
   </test> <!-- DMS Test -->
 </suite> <!-- DMS demo -->
